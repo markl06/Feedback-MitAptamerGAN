@@ -1,5 +1,5 @@
 # Feedback-MitAptamerGAN
-For SELEX-informed generation and prioritization of mitochondrial RNA aptamer candidates
+For SELEX-informed generation and prioritization of mitochondrial RNA aptamer candidates. The code and datasets will be released soon.
 
 ## Files
 
