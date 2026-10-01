@@ -18,5 +18,5 @@ scripts/
   run.py                  Training, evaluation, and generation entry points
 configs/
   default.json            Default model configuration
-  backends.example.json   Example external backend configuration
+  backends.json           External backend configuration
 ```
