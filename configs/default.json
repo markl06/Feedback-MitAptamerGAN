@@ -1,0 +1,18 @@
+  "ernie": {
+    "factory": "adapters.ernie_rna:LocalErnieRNA",
+    "kwargs": {
+      "checkpoint": "REPLACE_WITH_LOCAL_ERNIE_RNA_CHECKPOINT",
+      "embedding_dim": 768,
+      "device": "cpu",
+      "pooling": "mean"
+    }
+  },
+  "rnafold": {
+    "factory": "mitaptamer.integrations:RNAfoldCLI",
+    "kwargs": {
+      "executable": "RNAfold",
+      "temperature": 37.0,
+      "timeout": 60
+    }
+  }
+}
