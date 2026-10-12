@@ -1,5 +1,6 @@
 # Feedback-MitAptamerGAN
 For SELEX-informed generation and prioritization of mitochondrial RNA aptamer candidates. The code and datasets will be released soon.
+Thanks for Yueling Long and Zidong Ji sorting out the data for this project.
 
 ## Files
 
