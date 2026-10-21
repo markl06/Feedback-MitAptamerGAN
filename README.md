@@ -1,5 +1,5 @@
 # Feedback-MitAptamerGAN
-For SELEX-informed generation and prioritization of mitochondrial RNA aptamer candidates. The code and datasets will be released soon.
+For SELEX-informed generation and prioritization of mitochondrial RNA aptamer candidates. The fastq files obtained from the original SELEX sequencing and the dataset division can be downloaded. The complete dataset is coming soon.
 Thanks for Yueling Long and Zidong Ji sorting out the data for this project.
 
 ## Files
